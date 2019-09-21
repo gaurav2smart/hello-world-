@@ -1,3 +1,3 @@
 # hello-world-
-trail repository 
+trial repository 
 trying the commit functionality
